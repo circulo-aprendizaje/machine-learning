@@ -16,7 +16,7 @@ El pull request que ahí indica es para hacer EN ESE repositorio.
 Por orden alfabético:
 
 Participante | Tema de Interés | Rol
---- | ---
+--- | --- | ---
 [Daniel Gómez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/daniel_gomez.md) | Agentes Inteligentes | Participante
 [Angel J Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_mentor.md) | Algoritmos Genéticos, Redes Neuronales, IA | Mentor
 [Gustavo Olmedo](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/gustavo_olmedo.md) | Algoritmos Genéticos | Partipante
