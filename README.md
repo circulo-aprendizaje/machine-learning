@@ -21,5 +21,12 @@ Participante | Tema de Interés | Rol
 [Angel J Lopez](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/ajlopez_mentor.md) | Algoritmos Genéticos, Redes Neuronales, IA | Mentor
 [Gustavo Olmedo](https://github.com/circulo-aprendizaje/organizacion/blob/master/mensajes/gustavo_olmedo.md) | Algoritmos Genéticos | Partipante
 
+## Videos
+
+- [Primera Reunión](https://www.youtube.com/watch?v=SyqA8OxWVlU) Noviembre 23, 2017
+
+## Presentaciones
+
+- [Introducción a Inteligencia Artificial](http://ajlopez.github.io/Talks/ArtificialIntelligenceIntro/index.html)
 
 
